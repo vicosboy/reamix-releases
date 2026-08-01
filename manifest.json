@@ -1,20 +1,21 @@
 {
   "format": 1,
   "application": "REAMIX",
-  "version": "0.2.1",
-  "tag": "v0.2.1",
+  "version": "0.2.2",
+  "tag": "v0.2.2",
   "channel": "alpha",
   "platform": "macOS",
   "date": "2026-08-01",
-  "summary": "Mises à jour automatiques et vérifiées.",
+  "summary": "Service de mise à jour automatique fiabilisé.",
   "asset": {
     "name": "REAMIX-macOS.zip",
-    "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.2.1/REAMIX-macOS.zip",
-    "sha256": "b02dfd4dafd626bd6df26bd8f5141d16065db6c36e1147f952162609da8a56a1"
+    "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.2.2/REAMIX-macOS.zip",
+    "sha256": "f0b7d224008a5a1e156355157a58d8102aed7725a72d3e9d53b2a7c6069085ef"
   },
   "changes": [
     "Vérification automatique au lancement",
     "Installation et relance en un clic",
+    "Adresse de mise à jour stable",
     "Téléchargement contrôlé par SHA-256"
   ]
 }
