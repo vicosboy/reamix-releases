@@ -10,7 +10,7 @@
   "asset": {
     "name": "REAMIX-macOS.zip",
     "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.2.1/REAMIX-macOS.zip",
-    "sha256": "82a7d37f8123a1408d0948613c1b56fc4b92423cf86a449aee6722db92c0f57c"
+    "sha256": "b02dfd4dafd626bd6df26bd8f5141d16065db6c36e1147f952162609da8a56a1"
   },
   "changes": [
     "Vérification automatique au lancement",
