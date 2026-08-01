@@ -1,20 +1,20 @@
 {
   "format": 1,
   "application": "REAMIX",
-  "version": "0.2.3",
-  "tag": "v0.2.3",
+  "version": "0.2.4",
+  "tag": "v0.2.4",
   "channel": "alpha",
   "platform": "macOS",
   "date": "2026-08-01",
-  "summary": "Bannière de mise à jour intégrée à l’app.",
+  "summary": "Des projets transformés en pièces de travail partagées.",
   "asset": {
     "name": "REAMIX-macOS.zip",
-    "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.2.3/REAMIX-macOS.zip",
-    "sha256": "2240486969539b77613cbb7d9da99efb6c723b7ebdbb57729fb1b40dd2401d45"
+    "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.2.4/REAMIX-macOS.zip",
+    "sha256": "306105aaae9e23813a21876e07334930c6d338e5a290f0a8781884b42545b515"
   },
   "changes": [
-    "Vérification immédiate en arrière-plan",
-    "Bannière non bloquante dans l’app",
-    "Installation et relance en un clic"
+    "Accueil guidé et animation d’entrée",
+    "Rôles Host et Participant",
+    "Présence en direct, notifications et notes signées"
   ]
 }
