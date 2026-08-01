@@ -1,21 +1,22 @@
 {
   "format": 1,
   "application": "REAMIX",
-  "version": "0.2.5",
-  "tag": "v0.2.5",
+  "version": "0.3.0",
+  "tag": "v0.3.0",
   "channel": "alpha",
   "platform": "macOS",
   "date": "2026-08-01",
-  "summary": "Confirmation réelle des marqueurs Pro Tools.",
+  "summary": "Des pièces visibles comme des sessions en direct.",
   "asset": {
     "name": "REAMIX-macOS.zip",
-    "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.2.5/REAMIX-macOS.zip",
-    "sha256": "bc13e5767708a32c49793bc12d4adef37ffba5a6d1860b24b71a5152aa89bf22"
+    "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.3.0/REAMIX-macOS.zip",
+    "sha256": "5742319fddd6ba3458a6cd295dbcc7e2bec119d65ddd7c8787a64308af3b00b5"
   },
   "changes": [
-    "Numéro libre attribué à chaque marqueur",
-    "Confirmation PTSL avant d’annoncer un succès",
-    "Erreur exacte affichée au Host",
-    "Diagnostic PTSL conservé dans le journal"
+    "Accueil en grandes miniatures de session",
+    "Bouton + pour créer une pièce",
+    "Pièces du même Wi-Fi détectées automatiquement",
+    "Créateur Host et invités Participants sans bascule de rôle",
+    "Prénom mémorisé et transmis à la pièce"
   ]
 }
