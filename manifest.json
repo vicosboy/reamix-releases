@@ -1,20 +1,21 @@
 {
   "format": 1,
   "application": "REAMIX",
-  "version": "0.2.4",
-  "tag": "v0.2.4",
+  "version": "0.2.5",
+  "tag": "v0.2.5",
   "channel": "alpha",
   "platform": "macOS",
   "date": "2026-08-01",
-  "summary": "Des projets transformés en pièces de travail partagées.",
+  "summary": "Confirmation réelle des marqueurs Pro Tools.",
   "asset": {
     "name": "REAMIX-macOS.zip",
-    "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.2.4/REAMIX-macOS.zip",
-    "sha256": "306105aaae9e23813a21876e07334930c6d338e5a290f0a8781884b42545b515"
+    "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.2.5/REAMIX-macOS.zip",
+    "sha256": "bc13e5767708a32c49793bc12d4adef37ffba5a6d1860b24b71a5152aa89bf22"
   },
   "changes": [
-    "Accueil guidé et animation d’entrée",
-    "Rôles Host et Participant",
-    "Présence en direct, notifications et notes signées"
+    "Numéro libre attribué à chaque marqueur",
+    "Confirmation PTSL avant d’annoncer un succès",
+    "Erreur exacte affichée au Host",
+    "Diagnostic PTSL conservé dans le journal"
   ]
 }
