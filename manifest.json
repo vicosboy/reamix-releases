@@ -10,7 +10,7 @@
   "asset": {
     "name": "REAMIX-macOS.zip",
     "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.5.2/REAMIX-macOS.zip",
-    "sha256": "4e1e2e0348e041789833e32343a096382556f7e140018704e7e7457d516bec9b"
+    "sha256": "de7895f9b91c153d0095ffe578fd94b0a7fb1cc8c149f112353bf35f468df8b9"
   },
   "changes": [
     "Image Host et image Explorer visibles en même temps",
