@@ -1,22 +1,22 @@
 {
   "format": 1,
   "application": "REAMIX",
-  "version": "0.3.0",
-  "tag": "v0.3.0",
+  "version": "0.5.1",
+  "tag": "v0.5.1",
   "channel": "alpha",
   "platform": "macOS",
   "date": "2026-08-01",
-  "summary": "Des pièces visibles comme des sessions en direct.",
+  "summary": "Participant simplifié, Explorer mobile et Host allégé.",
   "asset": {
     "name": "REAMIX-macOS.zip",
-    "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.3.0/REAMIX-macOS.zip",
-    "sha256": "5742319fddd6ba3458a6cd295dbcc7e2bec119d65ddd7c8787a64308af3b00b5"
+    "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.5.1/REAMIX-macOS.zip",
+    "sha256": "6870ace5fdbde3eecae54333be6f3937f98c12103dd2618c59b8bf9cb429e9e4"
   },
   "changes": [
-    "Accueil en grandes miniatures de session",
-    "Bouton + pour créer une pièce",
-    "Pièces du même Wi-Fi détectées automatiquement",
-    "Créateur Host et invités Participants sans bascule de rôle",
-    "Prénom mémorisé et transmis à la pièce"
+    "Explorer réduit à une timeline et cinq images de repère",
+    "Interface iPhone avec défilement naturel",
+    "Une seule action pour envoyer une remarque",
+    "Diffusion du mix en un clic, réglages techniques repliés",
+    "Audio Bridge utilisé sans renommage"
   ]
 }
