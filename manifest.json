@@ -1,22 +1,22 @@
 {
   "format": 1,
   "application": "REAMIX",
-  "version": "0.5.1",
-  "tag": "v0.5.1",
+  "version": "0.5.2",
+  "tag": "v0.5.2",
   "channel": "alpha",
   "platform": "macOS",
-  "date": "2026-08-01",
-  "summary": "Participant simplifié, Explorer mobile et Host allégé.",
+  "date": "2026-08-02",
+  "summary": "Deux moniteurs Participant et vidéo locale automatique sur Mac.",
   "asset": {
     "name": "REAMIX-macOS.zip",
-    "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.5.1/REAMIX-macOS.zip",
-    "sha256": "6870ace5fdbde3eecae54333be6f3937f98c12103dd2618c59b8bf9cb429e9e4"
+    "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.5.2/REAMIX-macOS.zip",
+    "sha256": "4e1e2e0348e041789833e32343a096382556f7e140018704e7e7457d516bec9b"
   },
   "changes": [
-    "Explorer réduit à une timeline et cinq images de repère",
-    "Interface iPhone avec défilement naturel",
-    "Une seule action pour envoyer une remarque",
-    "Diffusion du mix en un clic, réglages techniques repliés",
-    "Audio Bridge utilisé sans renommage"
+    "Image Host et image Explorer visibles en même temps",
+    "Côte à côte sur Mac et téléphone horizontal, empilées en portrait",
+    "Copie locale du film automatique dans l’app Mac",
+    "Suivi du Host plus réactif et mieux calé au son web",
+    "Prénom seul à l’entrée et accueil sans barre de recherche"
   ]
 }
