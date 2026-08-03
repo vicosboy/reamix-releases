@@ -1,22 +1,22 @@
 {
   "format": 1,
   "application": "REAMIX",
-  "version": "0.5.3",
-  "tag": "v0.5.3",
+  "version": "0.5.4",
+  "tag": "v0.5.4",
   "channel": "alpha",
   "platform": "macOS",
   "date": "2026-08-03",
-  "summary": "Timeline Explorer comparative, nom web éditable et nouveau thème sombre.",
+  "summary": "Timeline Explorer zoomable et précise pour les films longs.",
   "asset": {
     "name": "REAMIX-macOS.zip",
-    "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.5.3/REAMIX-macOS.zip",
-    "sha256": "1ad5cecd6060940aef654ca1cb7507b189487c920dc015a4381a963264fe4da0"
+    "url": "https://github.com/vicosboy/reamix-releases/releases/download/v0.5.4/REAMIX-macOS.zip",
+    "sha256": "a4cc33fa9c932363ff24e5c962d6e97240028aae602e49e0623ea318c5490504"
   },
   "changes": [
-    "Temps Explorer affiché sur la durée totale du film",
-    "Position du Host visible en vert sur la même timeline",
-    "Écart avant ou après le Host calculé en permanence",
-    "Bouton pour rejoindre immédiatement la position du Host",
-    "Nom web modifiable sans rôle affiché et thème sombre redessiné"
+    "Vue globale du film avec fenêtre de zoom visible",
+    "Règle graduée et tête de lecture bleue inspirées du montage",
+    "Zoom Film, 10 minutes, 2 minutes ou 30 secondes",
+    "Un clic dans la vue globale déplace et recadre Explorer",
+    "Un seul curseur manipulable malgré les deux niveaux de lecture"
   ]
 }
